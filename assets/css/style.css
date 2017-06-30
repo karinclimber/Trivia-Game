@@ -1,0 +1,45 @@
+.container {
+    height: 600px;
+    width: 600px;
+    margin-top: 60px;
+    background-color: rebeccapurple;
+    font-family: 'Kaushan Script', cursive;
+    text-align: center;
+}
+
+body{
+    color: #efc834;
+    font-family: 'Kaushan Script', cursive;
+}
+
+#titleDiv {
+    font-size: 50px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+#timeRemainingDiv {
+    font-size: 30px;
+}
+
+#questionsDiv {
+    padding: 20px;
+    font-size: 30px;
+}
+
+#choicesDiv {
+    color: rebeccapurple;
+    display: block;
+    
+}
+#submitDiv {
+    padding: 20px;
+}
+
+#submitDiv {
+     color: rebeccapurple;
+}
+
+.btn {
+    display: vertical;
+}
